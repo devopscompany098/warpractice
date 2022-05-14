@@ -31,7 +31,9 @@
 	<properties>
 		<axis2.version>1.8.0</axis2.version>
 	</properties>
-
+<properties>
+		<axis2.version>3.6</axis2.version>
+	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.axis2</groupId>
